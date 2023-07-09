@@ -9,7 +9,8 @@ One of the key advantages of Lucid Cardano is its versatility. It can be seamles
 
 By leveraging Lucid Cardano's capabilities, developers gain a convenient and secure means to create Cardano transactions and execute off-chain code. The package abstracts away the complexities of the underlying blockchain, allowing developers to focus on building innovative and robust applications.
 
-Features
+**Features**
+
 Wallet Management Generate wallet addresses, manage private keys, and check wallet balances.
 
 Token Minting Create and manage custom tokens on the Cardano blockchain.
