@@ -11,12 +11,12 @@ By leveraging Lucid Cardano's capabilities, developers gain a convenient and sec
 
 **Features**
 
-Wallet Management Generate wallet addresses, manage private keys, and check wallet balances.
+_Wallet Management_:  Generate wallet addresses, manage private keys, and check wallet balances.
 
-Token Minting Create and manage custom tokens on the Cardano blockchain.
+_Token Minting_: Create and manage custom tokens on the Cardano blockchain.
 
-Transaction Creation Build and sign transactions to send ADA and custom tokens.
+_Transaction Creation_: Build and sign transactions to send ADA and custom tokens.
 
-Metadata Attachment Attach metadata to transactions for additional information
+_Metadata Attachmen_: t Attach metadata to transactions for additional information
 
-Policy Management Define and manage minting policies for token creation.
+_Policy Management_: Define and manage minting policies for token creation.
